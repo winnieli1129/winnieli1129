@@ -39,7 +39,7 @@
 
 ### GitHub Stats:
 
-<img align="left" alt="Winnie Li's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=winnieli1129&count_private=true" />
+<img align="left" alt="Winnie Li's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=winnieli1129&count_private=true&show_icons=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/winnie-li-a34579191/
