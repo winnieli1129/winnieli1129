@@ -3,7 +3,7 @@
 ## I'm a Junior at Purdue University studying Computer Science!!
 
 - 🔭 I am actively looking for Summer 2022 Intership!
-- 🌱 I’m currently learning Django and GraphQL
+- 🌱 I’m currently learning Django, ExpresJs, and GraphQL
 - 🥅 2021 Goals: Participate in more Hackathons
 - 🌏 I am from Taiwan
 - ⚡ Fun fact: I like to play Ultimate Frisbee
