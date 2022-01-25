@@ -5,7 +5,7 @@
 - 🔭 Actively looking for Summer 2022 Intership!
 - 👩‍💻 Interned at Google, GliaCloud, and Excelliance MOS
 - 🌱 Currently learning Django, ExpresJs, and GraphQL
-- 🥅 2021 Goals: Participate in more Hackathons and contribute to open source project
+- 🥅 2022 Goals: Participate in more Hackathons and contribute to open source project
 - 🌏 I am from Taiwan
 - ⚡ Fun fact: I like to play Ultimate Frisbee
 
