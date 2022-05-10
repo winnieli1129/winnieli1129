@@ -2,9 +2,9 @@
 
 ## I'm a Junior at Purdue University studying Computer Science!!
 
-- 🔭 Actively looking for Summer 2022 Intership!
+- 🔭 Actively looking for full time software engineer entry level position after May 2023!
+- 🌱 Incoming Summer 2022 SWE Intern @ Twilio 
 - 👩‍💻 Interned at Google, GliaCloud, and Excelliance MOS
-- 🌱 Currently learning Three.js
 - 🥅 2022 Goals: Participate in more Hackathons and contribute to open source project
 - 🌏 I am from Taiwan
 - ⚡ Fun fact: I like to play Ultimate Frisbee
